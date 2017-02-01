@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ClassDiagForm.qml</file>
+        <file>ButtonMenu.qml</file>
+        <file>colors.qml</file>
+        <file>colors.js</file>
+    </qresource>
+</RCC>
