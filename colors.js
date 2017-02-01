@@ -3,7 +3,7 @@
 //var color_white = "#FFFFFF"
 
 function color_light_blue() {
-    return  "#ccccff";
+    return  "#00cccc";
 }
 
 function color_grey_menu() {

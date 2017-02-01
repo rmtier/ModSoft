@@ -6,5 +6,7 @@
         <file>ButtonMenu.qml</file>
         <file>colors.qml</file>
         <file>colors.js</file>
+        <file>ButtonHorizontalMenu.qml</file>
+        <file>SequenceDiagForm.qml</file>
     </qresource>
 </RCC>

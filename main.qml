@@ -11,6 +11,9 @@ Window {
     MainForm {
 
         seqDiagMouseArea.onClicked: {
+            var component = Qt.createComponent("SequenceDiagForm.qml");
+            var win = component.createObject(rootWindow);
+            win.show();
         }
         exitMouseArea.onClicked: {
             Qt.quit();
