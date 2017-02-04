@@ -3,8 +3,8 @@ TEMPLATE = app
 QT += qml quick
 CONFIG += c++11
 
-SOURCES += main.cpp \
-    gui_event_receiver.cpp
+SOURCES += src\main.cpp \
+    src\graphics_tools\gui_event_receiver.cpp
 
 RESOURCES += qml.qrc
 
@@ -31,6 +31,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
-    gui_event_receiver.h
+    src\graphics_tools\gui_event_receiver.h
 
 DISTFILES +=

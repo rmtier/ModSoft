@@ -1,12 +1,12 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
-        <file>ClassDiagForm.qml</file>
-        <file>ButtonMenu.qml</file>
-        <file>colors.qml</file>
-        <file>colors.js</file>
-        <file>ButtonHorizontalMenu.qml</file>
-        <file>SequenceDiagForm.qml</file>
+        <file>QML/main.qml</file>
+        <file>QML/MainForm.ui.qml</file>
+        <file>QML/ClassDiagForm.qml</file>
+        <file>QML/ButtonMenu.qml</file>
+        <file>JS/colors.js</file>
+        <file>QML/ButtonHorizontalMenu.qml</file>
+        <file>QML/SequenceDiagForm.qml</file>
+        <file>QML/FileDialog.qml</file>
     </qresource>
 </RCC>
